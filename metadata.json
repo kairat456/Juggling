@@ -1,0 +1,6 @@
+{
+  "name": "FootVolley Duo: Чеканка и Волейбол 2D",
+  "description": "Динамичная 2D игра про чеканку и волейбол. Управляйте двумя персонажами, чеканьте мяч различными частями тела, перебивайте через сетку и открывайте уникальные локации!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
